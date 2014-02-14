@@ -11,6 +11,6 @@ package restotunisietest;
 public class Resto {
     private int idResto;
     private int Rim;
-    private int Ghada;
+    private String Ghada;
     
 }
