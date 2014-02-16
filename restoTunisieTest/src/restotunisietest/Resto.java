@@ -12,5 +12,6 @@ public class Resto {
     private int idResto;
     private int Rim;
     private String Ghada;
+    private int b1; 
     
 }
